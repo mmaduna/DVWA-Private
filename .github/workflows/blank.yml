@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: security-devops-action
         uses: microsoft/security-devops-action@v1.7.2
+        id: msdo
