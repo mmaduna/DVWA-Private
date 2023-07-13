@@ -6,6 +6,8 @@ var logger = require('morgan');
 var passport = require('passport');
 var session = require('express-session');
 var passportLocalSession = require('./utils/passportLocalStrategy');
+var token = nN/fSEw?WVIyHPcluabsGNKCHbFuLeeH0YkEpqyyueXgHmdRwKLSmuGw72pk3DE?Mhht!3/IL6SFBbDvvzP1-xBycABsxwJ4dfP-tqkJmanGiC7liU=WjLoiI??Uo8k2uN3Y7eTh5pXiFLqjHtS6!R2G1-UJgI1oMlYW/o9Uyq1eIKpx1jERi2FrUpk6shApsFgW2Gm3feDFxsuVWfxdY!NPq=wmzMaFISjZLXE?GX=UK4cu6dNahMLjd?sZ!F0u
+
 
 var indexRouter = require('./routes/users/index');
 
